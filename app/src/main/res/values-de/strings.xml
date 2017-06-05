@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="all_blurredvisiontitle">Verschwommene Sicht</string>
+    <string name="all_close">Schließen</string>
+    <string name="all_durationofheadache">Dauer der Kopfschmerzen</string>
+    <string name="all_fatiguetitle">Übermüdung</string>
+    <string name="all_headachehistory">Deine Kopfschmerzen</string>
+    <string name="all_insomniatitle">Schlaflosigkeit</string>
+    <string name="all_intensity">Stärke der Kopfschmerzen</string>
+    <string name="all_lightheadednesstitle">Benommenheit</string>
+    <string name="all_mild">Leicht</string>
+    <string name="all_moderate">Mittelmäßig</string>
+    <string name="all_nauseatitle">Übelkeit</string>
+    <string name="all_newheadache">Neue Kopfschmerzen</string>
+    <string name="all_osmophobiatitle">Osmophobie</string>
+    <string name="all_phonophobiatitle">Phonophobie</string>
+    <string name="all_photophobiatitle">Photophobie</string>
+    <string name="all_privacynotice">Datenschutzerklärung</string>
+    <string name="all_settings">Einstellungen</string>
+    <string name="all_severe">Stark</string>
+    <string name="all_verymild">Sehr leicht</string>
+    <string name="all_verysevere">Sehr stark</string>
+
+    <string name="app_name">Happy Headache</string>
+
+    <string name="feedback_email">alexandra.fritzen@tum.de</string>
+    <string name="feedback_message">Liebes Happy Headache Team,</string>
+    <string name="feedback_send">Feedback senden…</string>
+    <string name="feedback_subject">Feedback für Happy Headache</string>
+
+    <string name="headachehistory_calendar">Kalender</string>
+    <string name="headachehistory_datelist">Datum: %1$s</string>
+    <string name="headachehistory_deleteentry">Kopfschmerz-Eintrag löschen</string>
+    <string name="headachehistory_didnttakepainrelievers">Du hast kein Schmerzmittel genommen</string>
+    <string name="headachehistory_didtakepainrelievers">Du nahmst %1$s</string>
+    <plurals name="headachehistory_duration">
+        <item quantity="one">Dauerte %1$d Stunde</item>
+        <item quantity="other">Dauerte %1$d Stunden</item>
+    </plurals>
+    <plurals name="headachehistory_durationlist">
+        <item quantity="one">Dauer: %1$d Stunde</item>
+        <item quantity="other">Dauer: %1$d Stunden</item>
+    </plurals>
+    <string name="headachehistory_editentry">Bearbeiten</string>
+    <string name="headachehistory_export">Kopfschmerz-Entwicklung exportieren</string>
+    <string name="headachehistory_graph">Graph</string>
+    <string name="headachehistory_headacheentryremoved">Kopfschmerz-Eintrag wurde gelöscht</string>
+    <string name="headachehistory_intensity">%1$se Intensität</string>
+    <string name="headachehistory_intensitylist">Intensität: %1$s</string>
+    <string name="headachehistory_list">Liste</string>
+    <string name="headachehistory_new">Neuer Kopfschmerz-Eintrag</string>
+    <string name="headachehistory_none">Keine</string>
+    <string name="headachehistory_nosymptoms">Keine anderen Symptome</string>
+    <string name="headachehistory_painrelieverlist">Schmerzmittel: %1$s</string>
+    <string name="headachehistory_send">Senden</string>
+    <string name="headachehistory_symptomslist">Symptome: %1$s</string>
+    <string name="headachehistory_unknown">Unbekannt</string>
+    <string name="headachehistory_yourheadache">Deine Kopfschmerzen</string>
+    <string name="headachehistory_yoursymptoms">Deine Symptome:</string>
+
+    <string name="home_cardiovascularexercise">Herz-Kreislauf-Training</string>
+    <string name="home_cardiovascularexercisedetails">Jegliche Aktivität, die deine Herzfrequenz und Atmung steigert und dabei große Muskelgruppen rhythmisch bewegt.\nDu könntest zum Beispiel joggen, Fahrrad fahren oder schwimmen ausprobieren.\nEmpfohlen werden mindestens 3x 30 Minuten in der Woche.</string>
+    <string name="home_cardiovascularexercisemeasure">Wöchentlich 3x 30 Minuten</string>
+    <string name="home_dontshowagain">Nicht mehr anzeigen</string>
+    <string name="home_factor1">weniger als 1 Liter trinkst</string>
+    <string name="home_factor2">das Frühstück ausfallen lässt</string>
+    <string name="home_factor3">weniger als 30 Minuten Sport machst</string>
+    <string name="home_factor4">mehr als 4 Tassen Kaffe trinkst</string>
+    <string name="home_factor5">weniger als 6 Stunden schläfst</string>
+    <string name="home_helpicon">Hilfe Symbol</string>
+    <string name="home_later">Später</string>
+    <string name="home_liquidintake">Flüssigkeitsaufnahme</string>
+    <string name="home_liquidintakedetails">Stelle sicher, dass du im Laufe des Tages genug Flüssigkeiten zu dir nimmst.\nEmpfohlen werden mindestens zwei Liter am Tag.</string>
+    <string name="home_liquidintakemeasure">Täglich 2 Liter</string>
+    <string name="home_magnesium">Magnesium</string>
+    <string name="home_magnesiumdetails">Menschen mit Migräne weisen oft einen niedrigen Magnesiumspiegel auf.\nEinige Studien zeigen, dass 200–600mg Magnesium am Tag die Häufigkeit der Migäneattacken reduzieren kann.</string>
+    <string name="home_magnesiummeasure">Täglich 200mg</string>
+    <string name="home_myhelp">Meine Hilfe</string>
+    <string name="home_myhelpexplanation">**Während Beta-Test nicht funktionstüchtig** Mithilfe deiner Gesundheitsdaten würdest du hier erfahren, wie du deine Kopfschmerzen vorbeugen kannst.</string>
+    <string name="home_newheadachetimerstarted">Der Timer wurde gestartet</string>
+    <string name="home_relaxationexercises">Entspannungsübungen</string>
+    <string name="home_relaxationexercisesdetails">Eine Vielfalt an Methoden und Manipulationen, um Stress, Muskelspannungen und Beklemmungen im Körper zu reduzieren.\nDu könntest zum Beispiel Yoga, Meditation oder Atemübungen ausprobieren.\nEmpfohlen werden mindestens 30 Minuten am Tag.</string>
+    <string name="home_relaxationexercisesmeasure">Täglich 30 Minuten</string>
+    <string name="home_stats">Überblick</string>
+    <string name="home_survey">Umfrage</string>
+    <string name="home_surveyaction">Zur Umfrage</string>
+    <string name="home_surveydetail">Bitte fülle diese Umfrage als Teil der Feldstudie aus. Vielen Dank!</string>
+    <string name="home_triggerexplanation">**Während Beta-Test nicht funktionstüchtig** Basierend auf den gesammelten Gesundheitsdaten würdest du hier sehen, was am wahrscheinlichsten deine Kopfschmerzen verursacht.</string>
+    <string name="home_triggerpercentage">%1$d%%\u0020</string>
+    <string name="home_triggers">Ursachen</string>
+    <string name="home_triggertitle">Wahrscheinlichkeit für Kopfschmerzen an Tagen, an denen du…</string>
+    <string name="home_undo">Rückgängig machen</string>
+
+    <string name="login_alreadymember">Schon Mitglied? Hier anmelden.</string>
+    <string name="login_confirmpassword">Passwort bestätigen</string>
+    <string name="login_email">E-Mail</string>
+    <string name="login_forgotpassword">Passwort vergessen?</string>
+    <string name="login_login">Einloggen</string>
+    <string name="login_loginsuccessful">Erfolgreich eingeloggt</string>
+    <string name="login_notyetmember">Kein Mitglied? Hier anmelden.</string>
+    <string name="login_password">Passwort</string>
+    <string name="login_passwordresetsent">Passwort zurücksetzen wurde an E-Mail geschickt</string>
+    <string name="login_passwordsdontmatch">Passwörter stimmen nicht überein</string>
+    <string name="login_pleaseenteremail">Bitte E-Mail-Adresse angeben</string>
+    <string name="login_pleaseenterpassword">Bitte Passwort angeben</string>
+    <string name="login_signup">Anmelden</string>
+    <string name="login_signupsuccessful">Erfolgreich angemeldet</string>
+
+    <string name="menu_feedback">Feedback</string>
+    <string name="menu_loginsignup">Einloggen/Anmelden</string>
+    <string name="menu_logout">Ausloggen</string>
+
+    <string name="newheadache_0">0</string>
+    <string name="newheadache_24">24</string>
+    <string name="newheadache_basics">Allgemeines</string>
+    <string name="newheadache_beginningofheadache">Anbruch der Kopfschmerzen</string>
+    <string name="newheadache_blurredvisiondescription">Ein Fehlen der Sichtschärfe mit dem Ergebnis, keine feinen Details sehen zu können</string>
+    <string name="newheadache_date">Datum</string>
+    <string name="newheadache_didyoutakepainrelievers">Hast du Schmerzmittel eingenommen?</string>
+    <string name="newheadache_errorenterdatetime"><![CDATA[Bitte gib Datum & Uhrzeit an]]></string>
+    <string name="newheadache_errorpainrelievers">Bitte gib an, welche Schmerzmittel du einnahmst</string>
+    <string name="newheadache_fatiguedescription">Extreme Müdigkeit</string>
+    <plurals name="newheadache_hours">
+        <item quantity="one">%1$d Stunde</item>
+        <item quantity="other">%1$d Stunden</item>
+    </plurals>
+    <string name="newheadache_insomniadescription">Einschlafstörungen, häufiges Aufwachen in der Nacht oder sehr frühes Erwachen am Morgen</string>
+    <string name="newheadache_lightheadednessdescription">Schwindel- oder Ohnmachtsgefühl</string>
+    <string name="newheadache_medicine">Medizin</string>
+    <string name="newheadache_nauseadescription">Flaues Gefühl im Magen, oft Vorbote des Erbrechen</string>
+    <string name="newheadache_nopainrelievers">Nein, das habe ich nicht</string>
+    <string name="newheadache_osmophobiadescription">Extreme Geruchempfindlichkeit</string>
+    <string-array name="newheadache_painrelieversarray">
+        <item>Acetaminophen</item>
+        <item>Advil</item>
+        <item>Aspirin</item>
+        <item>Codeine</item>
+        <item>Ibuprofen</item>
+        <item>Morphine</item>
+        <item>Paracetamol</item>
+    </string-array>
+    <string name="newheadache_phonophobiadescription">Extreme Lärmempfindlichkeit</string>
+    <string name="newheadache_photophobiadescription">Extreme Lichtempfindlichkeit</string>
+    <string name="newheadache_stillgoingon">Die Kopfschmerzen sind immer noch da</string>
+    <string name="newheadache_symptomicon">Symptome Symbol</string>
+    <string name="newheadache_symptoms">Symptome</string>
+    <string name="newheadache_time">Uhrzeit</string>
+    <string name="newheadache_whichpainrelievers">Welche Schmerzmittel?</string>
+    <string name="newheadache_yespainrelievers">Ja, das habe ich</string>
+
+    <string name="privacynotice_text">Happy Headache wurde als Teil eines Forschungsprojekts der Technischen Universität in München, Deutschland, entworfen.\n\n\nMit dieser App sammeln wir verschiedene Arten von Information aus diesen drei Gründen:\n\n1. Um festzustellen, welche Faktoren deine Kopfschmerzen möglicherweise verursachen.\n\n2. Um unser Dienstleisungsangebot zu beaufsichtigen und zu verbessern.\n\n3. Um Forschung zu betreiben (z.B. für Abschluss- und Forschungsarbeiten).\n\nDeine Daten weren immer vertraulich behandelt.</string>
+
+    <string name="settings_googlefit">Google Fit</string>
+    <string name="settings_googlefitdescription">Verbinde diese App mit Google Fit, um Sport- und Ernährungsdaten zu importieren und dadurch den möglichen Grund für deine Kopfschmerzen zu finden. Damit die Verbindung funktioniert, brauchen wir außerdem Zugang zu deinen Bewebungs- und Sensorendaten.</string>
+    <string name="settings_googlefiticon">Google Fit Symbol</string>
+    <string name="settings_shealth">S Health</string>
+    <string name="settings_shealthdescription">Indem du diese App mit S Health verbindest, kannst du herausfinden, ob deine Kopfschmerzen durch Faktoren wie Sport, Ernährung (sowohl Essen und Trinken) oder Schlaf ausgelöst werden. Jedoch kann S Health nur deine Bewegung automatisch aufnehmen. Um deinen Schlaf aufzunehmen, empfehlen wir die App Sleep und für deine Ernährung, die App Lifesum.</string>
+    <string name="settings_shealthicon">S Health Symbol</string>
+
+    <string name="stats_burnedcalories">Verbrannte Kalorien</string>
+    <string name="stats_burnedcaloriesunit">kcal</string>
+    <string name="stats_caffeine">Koffein</string>
+    <string name="stats_caffeinunit">mg</string>
+    <string name="stats_calories">Kalorien</string>
+    <string name="stats_caloriesunit">kcal</string>
+    <string name="stats_carbohydrate">Kohlenhydrate</string>
+    <string name="stats_carbohydrateunit">g</string>
+    <string name="stats_distance">Distanz</string>
+    <string name="stats_distanceunit">m</string>
+    <string name="stats_duration">Dauer</string>
+    <string name="stats_duratiounit">min</string>
+    <string name="stats_exercise">Sport</string>
+    <string name="stats_exerciseunit">Sport</string>
+    <string name="stats_fat">Fett</string>
+    <string name="stats_fatunit">g</string>
+    <string name="stats_fiber">Ballaststoffe</string>
+    <string name="stats_fiberunit">g</string>
+    <string name="stats_food">Essen</string>
+    <string name="stats_foodunit">Essen</string>
+    <string name="stats_potassium">Kalium</string>
+    <string name="stats_potassiumunit">mg</string>
+    <string name="stats_protein">Protein</string>
+    <string name="stats_proteinunit">g</string>
+    <string name="stats_sleep">Schlaf</string>
+    <string name="stats_sleepunit">Stunden</string>
+    <string name="stats_sodium">Natrium</string>
+    <string name="stats_sodiumunit">mg</string>
+    <string name="stats_steps">Schritte</string>
+    <string name="stats_stepsunit">Schritte</string>
+    <string name="stats_sugar">Zucker</string>
+    <string name="stats_sugarunit">g</string>
+    <string name="stats_water">Wasser</string>
+    <string name="stats_waterunit">ml</string>
+
+    <string name="welcome_accessingyourdata">Zugriff auf deine Daten</string>
+    <string name="welcome_accessingyourdatadetail">Um so viele Daten wie möglich zu sammeln und dir die besten Ergebnisse liefern zu können, brauchen wir Zugang zu deinen Bewegungs- und Sensorendaten sowie zu deiner präferierten Gesundheitsplattform (momentan werden S Health und Google Fit unterstützt).</string>
+    <string name="welcome_getpersonalizedtips">Bekomme individuell angepasste Tips</string>
+    <string name="welcome_getpersonalizedtipsdetail">Wir analysieren deine Daten, sagen dir, was möglicherweise deine Kopfschmerzen verursacht und wie du zukünftige Kopfschmerzattacken verhindern kannst!</string>
+    <string name="welcome_trackyourhealth">Verfolge deine Gesundheit</string>
+    <string name="welcome_trackyourhealthdetail">Mithilfe von Gesundheitsplattformen, APIs und Sensores in deinem Handy versuchen wir, so viele deiner täglichen Aktivitäten wie möglich aufzunehmen, also zum Beispiel dein Sport-, Ess- und Schlafverhalten.</string>
+    <string name="welcome_welcomehappyheadache">Willkommen bei Happy Headache!</string>
+    <string name="welcome_welcomehappyheadachedetail">Fang gleich mit dem Aufnehmen deiner Kopfschmerzen an - entweder du klickst auf den \'Neue Kopfschmerzen\ oder Zeituhr-Button .</string>
+
+    <string name="widget_startrecording">Aufnahme starten</string>
+    <string name="widget_stoprecording">Aufnahme stoppen</string>
+</resources>

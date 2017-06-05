@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item_menu_loginsignup"
+        android:onClick="onGroupItemClick"
+        android:title="@string/menu_loginsignup" />
+    <item
+        android:id="@+id/item_menu_logout"
+        android:onClick="onGroupItemClick"
+        android:title="@string/menu_logout" />
+    <item
+        android:id="@+id/item_menu_settings"
+        android:onClick="onGroupItemClick"
+        android:title="@string/all_settings" />
+    <item
+        android:id="@+id/item_menu_feedback"
+        android:onClick="onGroupItemClick"
+        android:title="@string/menu_feedback" />
+    <item
+        android:id="@+id/item_menu_privacynotice"
+        android:onClick="onGroupItemClick"
+        android:title="@string/all_privacynotice" />
+    <item
+        android:id="@+id/item_menu_opensurvey"
+        android:onClick="onGroupItemClick"
+        android:title="@string/home_surveyaction" />
+</menu>

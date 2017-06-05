@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "306769818341",
+    "firebase_url": "https://happyheadache-147108.firebaseio.com",
+    "project_id": "happyheadache-147108",
+    "storage_bucket": "happyheadache-147108.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306769818341:android:bce3e56094dbd47e",
+        "android_client_info": {
+          "package_name": "com.happyheadache"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306769818341-ulpbeeer6kqocl53pkc8tkge8eidgaje.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.happyheadache",
+            "certificate_hash": "A11A87AEDF1A7879A2B24D39BC242739A1CB901A"
+          }
+        },
+        {
+          "client_id": "306769818341-nv5oqfl3ai0kp08p1u6ctd0gigbt5o6m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJYWF06mwG-ePO5Y8ZXBCdSgU6LCPH1yY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306769818341-nv5oqfl3ai0kp08p1u6ctd0gigbt5o6m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

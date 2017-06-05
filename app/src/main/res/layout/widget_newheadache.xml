@@ -1,0 +1,28 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/button_widget_newheadache"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@color/colorPrimary"
+        android:drawableTop="@drawable/ic_add_primary_24dp"
+        android:gravity="center"
+        android:text="@string/all_newheadache"
+        android:textColor="@color/textColorPrimary"
+        android:textSize="@dimen/widget_text_size" />
+
+    <TextView
+        android:id="@+id/button_widget_newheadachetimer"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@color/colorAccent"
+        android:drawableBottom="@drawable/ic_timer_accent_24dp"
+        android:gravity="center"
+        android:textColor="@color/textColorPrimary"
+        android:textSize="@dimen/widget_text_size" />
+</LinearLayout>

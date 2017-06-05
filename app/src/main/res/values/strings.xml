@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="all_blurredvisiontitle">Blurred vision</string>
+    <string name="all_close">Close</string>
+    <string name="all_durationofheadache">Duration of Headache</string>
+    <string name="all_fatiguetitle">Fatigue</string>
+    <string name="all_headachehistory">Your Headaches</string>
+    <string name="all_insomniatitle">Insomnia</string>
+    <string name="all_intensity">Headache Intensity</string>
+    <string name="all_lightheadednesstitle">Lightheadedness</string>
+    <string name="all_mild">Mild</string>
+    <string name="all_moderate">Moderate</string>
+    <string name="all_nauseatitle">Nausea</string>
+    <string name="all_newheadache">New Headache</string>
+    <string name="all_osmophobiatitle">Osmophobia</string>
+    <string name="all_phonophobiatitle">Phonophobia</string>
+    <string name="all_photophobiatitle">Photophobia</string>
+    <string name="all_privacynotice">Privacy Notice</string>
+    <string name="all_settings">Settings</string>
+    <string name="all_severe">Severe</string>
+    <string name="all_verymild">Very mild</string>
+    <string name="all_verysevere">Very severe</string>
+
+    <string name="app_name">Happy Headache</string>
+
+    <string name="feedback_email">alexandra.fritzen@tum.de</string>
+    <string name="feedback_message">Dear Happy Headache team,</string>
+    <string name="feedback_send">Send feedback…</string>
+    <string name="feedback_subject">Feedback for Happy Headache</string>
+
+    <string name="headachehistory_calendar">Calendar</string>
+    <string name="headachehistory_datelist">Date: %1$s</string>
+    <string name="headachehistory_deleteentry">Delete headache entry</string>
+    <string name="headachehistory_didnttakepainrelievers">You didn\'t take any pain relievers</string>
+    <string name="headachehistory_didtakepainrelievers">You took %1$s</string>
+    <plurals name="headachehistory_duration">
+        <item quantity="one">Lasted %1$d hour</item>
+        <item quantity="other">Lasted %1$d hours</item>
+    </plurals>
+    <plurals name="headachehistory_durationlist">
+        <item quantity="one">Duration: %1$d hour</item>
+        <item quantity="other">Duration: %1$d hours</item>
+    </plurals>
+    <string name="headachehistory_editentry">Edit Headache</string>
+    <string name="headachehistory_export">Export headache history</string>
+    <string name="headachehistory_graph">Graph</string>
+    <string name="headachehistory_headacheentryremoved">Headache entry removed</string>
+    <string name="headachehistory_intensity">%1$s intensity</string>
+    <string name="headachehistory_intensitylist">Intensity: %1$s</string>
+    <string name="headachehistory_list">List</string>
+    <string name="headachehistory_new">New headache entry</string>
+    <string name="headachehistory_none">None</string>
+    <string name="headachehistory_nosymptoms">No other symptoms</string>
+    <string name="headachehistory_painrelieverlist">Pain reliever: %1$s</string>
+    <string name="headachehistory_send">Send</string>
+    <string name="headachehistory_symptomslist">Symptoms: %1$s</string>
+    <string name="headachehistory_unknown">Unknown</string>
+    <string name="headachehistory_yourheadache">Your Headache</string>
+    <string name="headachehistory_yoursymptoms">Your symptoms:</string>
+
+    <string name="home_cardiovascularexercise">Cardiovascular exercise</string>
+    <string name="home_cardiovascularexercisedetails">Any activity that increases heart rate and respiration while using large muscle groups repetitively and rhythmically.\nFor example, you could try running, cycling, or swimming.\nRecommended are at least 3x 30 minutes per week.</string>
+    <string name="home_cardiovascularexercisemeasure">3x 30 minutes per week</string>
+    <string name="home_dontshowagain">Don\'t show this again</string>
+    <string name="home_factor1">drink less than 1 liter</string>
+    <string name="home_factor2">skip breakfast</string>
+    <string name="home_factor3">work out for less than 30 minutes</string>
+    <string name="home_factor4">drink more than 4 cups of coffee</string>
+    <string name="home_factor5">sleep less than 6 hours</string>
+    <string name="home_helpicon">Help icon</string>
+    <string name="home_later">Later</string>
+    <string name="home_liquidintake">Liquid intake</string>
+    <string name="home_liquidintakedetails">You could be suffering from dehydration headaches.\nMake sure to drink enough throughout the day.\nRecommended are at least two liters per day.</string>
+    <string name="home_liquidintakemeasure">2 liters per day</string>
+    <string name="home_magnesium">Magnesium</string>
+    <string name="home_magnesiumdetails">Research shows that people with migraines often have low levels of magnesium. Some studies indicate that 200–600mg of magnesium per day may reduce how often these people get migraines.</string>
+    <string name="home_magnesiummeasure">200mg daily</string>
+    <string name="home_myhelp">My Help</string>
+    <string name="home_myhelpexplanation">**Not functional during beta test** With the help of your health data, you would be shown what you can do to prevent future headaches.</string>
+    <string name="home_newheadachetimerstarted">Timer was started</string>
+    <string name="home_relaxationexercises">Relaxation exercises</string>
+    <string name="home_relaxationexercisesdetails">A variety of methods and manipulations used to reduce stress, muscle tension, and anxiety in the body.\nFor example, you could try yoga, meditation, or breathing exercises.\nRecommended are at least 30 minutes a day.</string>
+    <string name="home_relaxationexercisesmeasure">30 minutes daily</string>
+    <string name="home_stats">Overview</string>
+    <string name="home_survey">Survey</string>
+    <string name="home_surveyaction">Go to Survey</string>
+    <string name="home_surveydetail">As part of the field test, please fill out this survey. We highly appreciate it.</string>
+    <string name="home_triggerexplanation">**Not functional during beta test** Based on the gathered health data, we would show you here what most likely triggers your headaches.</string>
+    <string name="home_triggerpercentage">%1$d%%\u0020</string>
+    <string name="home_triggers">Triggers</string>
+    <string name="home_triggertitle">chance of headache on days when you…</string>
+    <string name="home_undo">Undo</string>
+
+    <string name="login_alreadymember">Already a member? Login here.</string>
+    <string name="login_confirmpassword">Confirm password</string>
+    <string name="login_email">Email</string>
+    <string name="login_forgotpassword">Forgot your password?</string>
+    <string name="login_login">Login</string>
+    <string name="login_loginsuccessful">Login successful</string>
+    <string name="login_notyetmember">Not yet a member? Sign up here.</string>
+    <string name="login_password">Password</string>
+    <string name="login_passwordresetsent">Password reset has been sent</string>
+    <string name="login_passwordsdontmatch">Passwords don\'t match</string>
+    <string name="login_pleaseenteremail">Please enter an email address</string>
+    <string name="login_pleaseenterpassword">Please enter a password</string>
+    <string name="login_signup">Sign up</string>
+    <string name="login_signupsuccessful">Signup successful</string>
+
+    <string name="menu_feedback">Feedback</string>
+    <string name="menu_loginsignup">Log In/Sign Up</string>
+    <string name="menu_logout">Logout</string>
+
+    <string name="newheadache_0">0</string>
+    <string name="newheadache_24">24</string>
+    <string name="newheadache_basics">Basics</string>
+    <string name="newheadache_beginningofheadache">Beginning of Headache</string>
+    <string name="newheadache_blurredvisiondescription">A lack of sharpness of vision resulting in the inability to see fine detail</string>
+    <string name="newheadache_date">Date</string>
+    <string name="newheadache_didyoutakepainrelievers">Did you take any pain reliever(s)?</string>
+    <string name="newheadache_errorenterdatetime"><![CDATA[Please enter date & time]]></string>
+    <string name="newheadache_errorpainrelievers">Please enter the pain reliever(s) you took</string>
+    <string name="newheadache_fatiguedescription">Extreme tiredness</string>
+    <plurals name="newheadache_hours">
+        <item quantity="one">%1$d hour</item>
+        <item quantity="other">%1$d hours</item>
+    </plurals>
+    <string name="newheadache_insomniadescription">Inability to sleep</string>
+    <string name="newheadache_lightheadednessdescription">Sensation of dizziness and/or a feeling that one may faint</string>
+    <string name="newheadache_medicine">Medicine</string>
+    <string name="newheadache_nauseadescription">A feeling of sickness with an urge to vomit</string>
+    <string name="newheadache_nopainrelievers">No, I didn\'t</string>
+    <string name="newheadache_osmophobiadescription">Extreme sensitivity to odors</string>
+    <string-array name="newheadache_painrelieversarray">
+        <item>Acetaminophen</item>
+        <item>Advil</item>
+        <item>Aspirin</item>
+        <item>Codeine</item>
+        <item>Ibuprofen</item>
+        <item>Morphine</item>
+        <item>Paracetamol</item>
+    </string-array>
+    <string name="newheadache_phonophobiadescription">Extreme sensitivity to sounds</string>
+    <string name="newheadache_photophobiadescription">Extreme sensitivity to light</string>
+    <string name="newheadache_stillgoingon">The headache is still going on</string>
+    <string name="newheadache_symptomicon">Symptom icon</string>
+    <string name="newheadache_symptoms">Symptoms</string>
+    <string name="newheadache_time">Time</string>
+    <string name="newheadache_whichpainrelievers">Which pain reliever(s) did you take?</string>
+    <string name="newheadache_yespainrelievers">Yes, I did</string>
+
+    <string name="privacynotice_text">Happy Headache was created as part of a research project at the Technische Universität München in Munich, Germany.\n\n\nWith this app, we collect different types of information for three reasons:\n\n1. To determine which factors potentially cause your headaches.\n\n2. To monitor and improve our service offering.\n\n3. To do research (e.g. for theses and research papers).\n\nAt all times, your data will be handled confidentially.</string>
+
+    <string name="settings_googlefit">Google Fit</string>
+    <string name="settings_googlefitdescription">Connect to Google Fit to import exercise and nutrition data to potentially find out the cause of your headaches. For the connection to work, we also need access to your location and sensor data.</string>
+    <string name="settings_googlefiticon">Google Fit icon</string>
+    <string name="settings_shealth">S Health</string>
+    <string name="settings_shealthdescription">By connecting to S Health, you can find out whether your headaches are caused by factors such as fitness, nutrition (both food and drinks), or sleep. However, S Health only automatically tracks exercise. For tracking sleep, we recommend Sleep and for nutrition, Lifesum.</string>
+    <string name="settings_shealthicon">S Health icon</string>
+
+    <string name="stats_burnedcalories">Burned calories</string>
+    <string name="stats_burnedcaloriesunit">kcal</string>
+    <string name="stats_caffeine">Caffeine</string>
+    <string name="stats_caffeinunit">mg</string>
+    <string name="stats_calories">Calories</string>
+    <string name="stats_caloriesunit">kcal</string>
+    <string name="stats_carbohydrate">Carbohydrate</string>
+    <string name="stats_carbohydrateunit">g</string>
+    <string name="stats_distance">Distance</string>
+    <string name="stats_distanceunit">m</string>
+    <string name="stats_duration">Duration</string>
+    <string name="stats_duratiounit">min</string>
+    <string name="stats_exercise">Exercise</string>
+    <string name="stats_exerciseunit">exercise</string>
+    <string name="stats_fat">Fat</string>
+    <string name="stats_fatunit">g</string>
+    <string name="stats_fiber">Fiber</string>
+    <string name="stats_fiberunit">g</string>
+    <string name="stats_food">Food</string>
+    <string name="stats_foodunit">food</string>
+    <string name="stats_potassium">Potassium</string>
+    <string name="stats_potassiumunit">mg</string>
+    <string name="stats_protein">Protein</string>
+    <string name="stats_proteinunit">g</string>
+    <string name="stats_sleep">Sleep</string>
+    <string name="stats_sleepunit">h</string>
+    <string name="stats_sodium">Sodium</string>
+    <string name="stats_sodiumunit">mg</string>
+    <string name="stats_steps">Steps</string>
+    <string name="stats_stepsunit">steps</string>
+    <string name="stats_sugar">Sugar</string>
+    <string name="stats_sugarunit">g</string>
+    <string name="stats_water">Water</string>
+    <string name="stats_waterunit">ml</string>
+
+    <string name="welcome_accessingyourdata">Accessing Your Data</string>
+    <string name="welcome_accessingyourdatadetail">To collect as much data as possible and give you the best results, we need access to your location and sensor data as well as the health center of your choice (currently supporting S Health and Google Fit).</string>
+    <string name="welcome_getpersonalizedtips">Get Personalized Tips</string>
+    <string name="welcome_getpersonalizedtipsdetail">We analyze your data, tell you what could be causing your headaches and how to prevent future headache attacks!</string>
+    <string name="welcome_trackyourhealth">Track Your Health</string>
+    <string name="welcome_trackyourhealthdetail">Through health centers, APIs, and your phone\'s sensors, we try to track as many of your daily activities as possible, including workouts, diet, and sleep.</string>
+    <string name="welcome_welcomehappyheadache">Welcome to Happy Headache!</string>
+    <string name="welcome_welcomehappyheadachedetail">Start tracking your headaches - either by clicking the \'New Headache\' or the timer button.</string>
+
+    <string name="widget_startrecording">Start recording</string>
+    <string name="widget_stoprecording">Stop recording</string>
+</resources>

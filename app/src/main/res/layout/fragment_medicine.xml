@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/newheadache_didyoutakepainrelievers"
+        android:textSize="@dimen/title_text_size"
+        android:textStyle="normal|bold" />
+
+    <RadioGroup
+        android:id="@+id/radiogroup_newheadache_painrelievers"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/radiobutton_newheadache_no"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="@string/newheadache_nopainrelievers" />
+
+        <RadioButton
+            android:id="@+id/radiobutton_newheadache_yes"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="@string/newheadache_yespainrelievers" />
+    </RadioGroup>
+
+    <AutoCompleteTextView
+        android:id="@+id/autocompletetextview_newheadache_painreliever"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/newheadache_whichpainrelievers"
+        android:imeOptions="actionDone"
+        android:inputType="text" />
+</LinearLayout>
